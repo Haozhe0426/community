@@ -1,0 +1,11 @@
+2023-07-11 10:22:09.164  INFO 20216 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests on Wudijo with PID 20216 (started by 25730 in D:\Java\javacode\community)
+2023-07-11 10:22:09.165 DEBUG 20216 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-07-11 10:22:09.165  INFO 20216 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2023-07-11 10:22:10.006  INFO 20216 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-11 10:22:10.110  INFO 20216 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-07-11 10:22:10.189  INFO 20216 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 1.167 seconds (JVM running for 1.538)
+2023-07-11 10:22:10.260 DEBUG 20216 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2023-07-11 10:22:10.260  INFO 20216 --- [main] com.nowcoder.community.LoggerTests       : info log
+2023-07-11 10:22:10.260  WARN 20216 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2023-07-11 10:22:10.260 ERROR 20216 --- [main] com.nowcoder.community.LoggerTests       : error log
+2023-07-11 10:22:10.264  INFO 20216 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

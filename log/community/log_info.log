@@ -1,0 +1,7 @@
+2023-07-11 10:31:05,418 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:50] Starting LoggerTests on Wudijo with PID 26520 (started by 25730 in D:\Java\javacode\community)
+2023-07-11 10:31:05,419 INFO [main] c.n.c.LoggerTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2023-07-11 10:31:06,225 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-11 10:31:06,332 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2023-07-11 10:31:06,423 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 1.167 seconds (JVM running for 1.52)
+2023-07-11 10:31:06,512 INFO [main] c.n.c.LoggerTests [LoggerTests.java:22] info log
+2023-07-11 10:31:06,516 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
