@@ -16,3 +16,6 @@
 &emsp;&emsp;commons lang判断常用数据空值情况  
 &emsp;&emsp;加salt进行MD5加密  
 &emsp;激活注册账号  
+4.生成验证码  
+&emsp;Kaptcha生成验证码图片  
+
