@@ -1,7 +1,24 @@
-2023-07-11 10:31:05,418 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:50] Starting LoggerTests on Wudijo with PID 26520 (started by 25730 in D:\Java\javacode\community)
-2023-07-11 10:31:05,419 INFO [main] c.n.c.LoggerTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
-2023-07-11 10:31:06,225 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
-2023-07-11 10:31:06,332 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
-2023-07-11 10:31:06,423 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 1.167 seconds (JVM running for 1.52)
-2023-07-11 10:31:06,512 INFO [main] c.n.c.LoggerTests [LoggerTests.java:22] info log
-2023-07-11 10:31:06,516 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-12 08:47:19,012 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on Wudijo with PID 7036 (started by 25730 in D:\Java\javacode\community)
+2023-07-12 08:47:19,018 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2023-07-12 08:47:20,426 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-12 08:47:20,544 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2023-07-12 08:47:20,709 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 2.076 seconds (JVM running for 2.538)
+2023-07-12 08:47:21,943 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-12 08:48:23,886 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on Wudijo with PID 26524 (started by 25730 in D:\Java\javacode\community)
+2023-07-12 08:48:23,887 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2023-07-12 08:48:25,168 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-12 08:48:25,275 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2023-07-12 08:48:25,372 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 1.654 seconds (JVM running for 2.012)
+2023-07-12 08:48:27,479 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-12 08:57:50,587 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on Wudijo with PID 27520 (started by 25730 in D:\Java\javacode\community)
+2023-07-12 08:57:50,588 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2023-07-12 08:57:51,935 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-12 08:57:52,049 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2023-07-12 08:57:52,137 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 1.849 seconds (JVM running for 2.201)
+2023-07-12 08:57:58,235 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-12 09:03:19,697 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on Wudijo with PID 7656 (started by 25730 in D:\Java\javacode\community)
+2023-07-12 09:03:19,698 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2023-07-12 09:03:21,003 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-12 09:03:21,105 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2023-07-12 09:03:21,211 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 1.831 seconds (JVM running for 2.225)
+2023-07-12 09:03:26,929 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
