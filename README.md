@@ -14,4 +14,5 @@
 &emsp;访问注册页面  
 &emsp;提交注册数据  
 &emsp;&emsp;commons lang判断常用数据空值情况  
-&emsp;&emsp;加salt进行MD5加密
+&emsp;&emsp;加salt进行MD5加密  
+&emsp;激活注册账号  
