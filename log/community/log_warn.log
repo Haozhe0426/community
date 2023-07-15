@@ -1,1 +1,1 @@
-2023-07-12 11:57:09,964 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:766] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m24s144ms327µs).
+2023-07-15 11:22:28,538 WARN [http-nio-8080-exec-1] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:198] Resolved [org.springframework.web.bind.MissingRequestCookieException: Missing cookie 'ticket' for method parameter of type String]
