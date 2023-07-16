@@ -28,4 +28,9 @@
 &emsp;&emsp;本次请求中持有用户信息  
 &emsp;&emsp;在模板视图上显示用户信息  
 &emsp;&emsp;请求结束时清理用户数据  
+7.账号设置
+&emsp;上传文件  
+&emsp;&emsp;通过MultipartFile上传文件  
+&emsp;修改密码  
+
 
