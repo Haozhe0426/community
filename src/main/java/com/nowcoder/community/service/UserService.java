@@ -160,6 +160,10 @@ public class UserService implements CommunityConstant {
         return userMapper.updateHeader(userId, headUrl);
     }
 
+    public User findUserByName(String username) {
+        return userMapper.selectByName(username);
+    }
+
     public Map<String, Object> updatePassword(User user, String password, String newPassword){
         Map<String, Object> map = new HashMap<>();
         //验证原密码是否正确
