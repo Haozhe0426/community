@@ -54,6 +54,11 @@
 &emsp;个人主页  
 &emsp;关注  
 &emsp;关注列表  
+&emsp;重构登录模块  
+&emsp;&emsp;使用Redis存储验证码  
+&emsp;&emsp;使用Redis存储登录凭证  
+&emsp;&emsp;使用Redis存储用户信息  
+
 
 
 
