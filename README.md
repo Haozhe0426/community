@@ -58,6 +58,7 @@
 &emsp;&emsp;使用Redis存储验证码  
 &emsp;&emsp;使用Redis存储登录凭证  
 &emsp;&emsp;使用Redis存储用户信息  
+21.发送系统通知  
 
 
 
