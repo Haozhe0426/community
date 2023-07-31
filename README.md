@@ -60,6 +60,7 @@
 &emsp;&emsp;使用Redis存储用户信息  
 21.发送系统通知  
 22.显示系统通知  
+23.Elasticsearch开发社区搜索功能  
 
 
 
