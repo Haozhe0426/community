@@ -54,14 +54,19 @@
 &emsp;个人主页  
 &emsp;关注  
 &emsp;关注列表  
-&emsp;重构登录模块  
+&emsp;重构登录模块   
 &emsp;&emsp;使用Redis存储验证码  
 &emsp;&emsp;使用Redis存储登录凭证  
 &emsp;&emsp;使用Redis存储用户信息  
 21.发送系统通知  
 22.显示系统通知  
 23.Elasticsearch开发社区搜索功能  
-
+24.Security权限控制  
+&emsp;登录检查  
+&emsp;授权配置  
+&emsp;认证方案  
+&emsp;CSRF配置  
+25.使用权限控制实现对帖子的置顶、加精、删除  
 
 
 
