@@ -67,6 +67,10 @@
 &emsp;认证方案  
 &emsp;CSRF配置  
 25.使用权限控制实现对帖子的置顶、加精、删除  
+26.网站数据统计  
+&emsp;UV,HyperLogLog  
+&emsp;DAU,Bitmap  
+
 
 
 
